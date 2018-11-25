@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?totaltestVersion 19.3.1.v20181122-0324_770?>
-<!--Topaz for Total Test 19.3.1.v20181122-0324_770 Nov 24, 2018 11:58:37 AM-->
+<!--Topaz for Total Test 19.3.1.v20181122-0324_770 Nov 25, 2018 9:32:43 AM-->
 <testExecutions version="1">
-  <file path="C:\Users\hstjxl0\Compuware\Topaz Daily\workspace\CWBW_Unit_Tests\Unit Test\Scenarios\CWBWCOBX_Scenario.testscenario">
+  <file path="C:\Users\hstjxl0\git\CWBW_LocalRepos\CWBW_Unit_Tests\Unit Test\Scenarios\CWBWCOBX_Scenario.testscenario">
     <testCase duration="0" name="CWBW_Unit_Tests.CWBWCOBX_Scenario.00001: CWBWCOBXCase1.00001: Check for PARM_LTH"/>
     <testCase duration="0" name="CWBW_Unit_Tests.CWBWCOBX_Scenario.00001: CWBWCOBXCase1.00002: Check for PARM_DATA"/>
     <testCase duration="0" name="CWBW_Unit_Tests.CWBWCOBX_Scenario.00001: CWBWCOBXCase1.00003: Check for FILLER0"/>
@@ -10,7 +10,7 @@
     <testCase duration="0" name="CWBW_Unit_Tests.CWBWCOBX_Scenario.00001: CWBWCOBXCase1.00005: Check for GRAND_TOTAL"/>
     <testCase duration="0" name="CWBW_Unit_Tests.CWBWCOBX_Scenario.00001: CWBWCOBXCase1.00006: Check for TOTAL_RECORD"/>
   </file>
-  <file path="C:\Users\hstjxl0\Compuware\Topaz Daily\workspace\CWBW_Unit_Tests\Unit Test\Stubs\CWBWCOBX_RPTFILE_FILE_01.stub">
+  <file path="C:\Users\hstjxl0\git\CWBW_LocalRepos\CWBW_Unit_Tests\Unit Test\Stubs\CWBWCOBX_RPTFILE_FILE_01.stub">
     <testCase duration="0" name="CWBW_Unit_Tests.CWBWCOBX_Scenario.00001: CWBWCOBXCase1.CWBWCOBX_RPTFILE_FILE_01.00001: RPTFILE assertion.00001: Check for BLANK_LINE"/>
     <testCase duration="0" name="CWBW_Unit_Tests.CWBWCOBX_Scenario.00001: CWBWCOBXCase1.CWBWCOBX_RPTFILE_FILE_01.00002: RPTFILE assertion.00001: Check for BLANK_LINE"/>
     <testCase duration="0" name="CWBW_Unit_Tests.CWBWCOBX_Scenario.00001: CWBWCOBXCase1.CWBWCOBX_RPTFILE_FILE_01.00003: RPTFILE assertion.00001: Check for BLANK_LINE"/>
